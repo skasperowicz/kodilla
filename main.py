@@ -9,3 +9,4 @@ for i in shopping_dict:
 print(f"W sumie kupuję {product_sum} produktów")
 print("Hiszpańska Inkwizycja to najlepszyskecz grupy Monty Pythona")
 print(2+2)
+print(3+3)
